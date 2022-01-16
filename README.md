@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @youhess
 - 👀 I’m interested in Front-End , Photography and Language Learning 
-- 🌱 I’m currently learning HTML CSS and JS.
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning framework.
 - 📫 How to reach me my email: 1176305338@qq.com , my telephone :15355115330
 
 <!---
